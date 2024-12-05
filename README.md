@@ -29,7 +29,7 @@
 
 (4) `.env` 파일 내, `NOTION_API_KEY=` 우측 항에 붙여넣기
 
-### Notion Database
+### 2. Notion Database
 
 (1) Page 생성
 
@@ -48,7 +48,7 @@
 
 - (예시) https://www.notion.so/username/DATABASE-API-KEY?
 
-### Postman
+### 3. Postman
 
 (1) [Postman](https://www.postman.com/) 가입
 
@@ -64,7 +64,7 @@
 
 (3) 200 OK 나오면 성공
 
-### VSCODE
+### 4. VSCODE
 
 (1) server.js > HOST = "your local ip" 로 변경
 
